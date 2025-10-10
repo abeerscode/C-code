@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these:
+!readme.md
+!.gitignore
+
+# Ignore common C build outputs
+*.out
+*.o
+*.obj
+*.exe
+*.a
+*.so
+*.dylib
+*.dll
+*.dSYM/
