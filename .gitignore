@@ -4,6 +4,8 @@
 # But not these:
 !readme.md
 !.gitignore
+!*.c
+
 
 # Ignore common C build outputs
 *.out
